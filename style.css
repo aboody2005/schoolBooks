@@ -1,0 +1,33 @@
+.py-3{
+    background-color: #212529;
+
+        position:absolute;
+        bottom:0;
+        width:100%;
+        height:60px;  
+}
+#pf{
+    
+    position: center;
+    text-align: center;
+ margin-top: 60px;
+ font-size: 25px;
+}
+#pc{
+    float: right;
+    padding-right: 60px;
+}
+#fp{
+    text-align: center;
+}
+
+#btn{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+#bbtn{
+   width:350px;
+   font-size: 20px;
+ 
+}
